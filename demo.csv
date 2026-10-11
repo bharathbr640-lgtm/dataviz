@@ -1,0 +1,17 @@
+Date,Region,Product_Category,Sales,Profit,Units_Sold,Rating
+2026-01-01,East,Electronics,1200,350,15,4.5
+2026-01-05,West,Office Supplies,450,120,30,4.2
+2026-01-10,North,Furniture,2500,-150,5,3.8
+2026-01-15,South,Clothing,800,200,40,4.6
+2026-01-20,East,Office Supplies,320,80,25,4.0
+2026-01-25,West,Clothing,950,280,35,4.7
+2026-02-01,North,Electronics,1800,500,20,4.8
+2026-02-05,South,Office Supplies,600,180,38,4.1
+2026-02-10,East,Furniture,1200,150,8,3.5
+2026-02-15,West,Electronics,1500,420,18,4.4
+2026-02-20,North,Clothing,700,140,28,4.3
+2026-02-25,South,Furniture,3100,650,10,4.9
+2026-03-01,East,Electronics,2200,600,22,4.7
+2026-03-05,West,Furniture,1800,-50,6,3.9
+2026-03-10,North,Office Supplies,500,130,32,4.0
+2026-03-15,South,Clothing,1100,320,45,4.5
